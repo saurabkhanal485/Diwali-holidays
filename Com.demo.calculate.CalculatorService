@@ -21,7 +21,6 @@ public class Calculator {
                 }
                 return number1 % number2;
             default:
-                // Throw custom checked exception for invalid operator
                 throw new WrongOperatorException("Invalid operator: " + operator);
         }
     }

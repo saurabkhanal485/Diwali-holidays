@@ -1,4 +1,4 @@
-import com.demo.Calculate.CalculatorService;
+import com.demo.calculate.CalculatorService;
 import com.demo.Error.WrongOperatorException;
 import java.util.Scanner;
 
